@@ -1,5 +1,5 @@
 </head>
-
+<link rel="stylesheet" href="style.css">
 <body>
   <div class="hero_area">
     <!-- header section strats -->
