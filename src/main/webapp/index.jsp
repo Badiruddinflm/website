@@ -82,7 +82,7 @@
           </div>
           <div class="col-md-6">
             <div class="img-box">
-              <img src="images/https://img.freepik.com/free-vector/abstract-realistic-particle-background_23-2148409681.jpg?t=st=1721966565~exp=1721970165~hmac=5a44e336f214386326529f1fc4eebd82c7553b8daafd9ef4ee380d3a220a6740&w=740" alt="">
+              <img src="https://www.istockphoto.com/photo/close-up-back-rear-behind-photo-handsome-he-him-his-guy-typing-writing-keyboard-gm1163541604-319526606?utm_source=pixabay&utm_medium=affiliate&utm_campaign=SRP_image_sponsored&utm_content=https%3A%2F%2Fpixabay.com%2Fimages%2Fsearch%2Fsoftware%2520developer%2F&utm_term=software+developer" alt="dev">
             </div>
           </div>
         </div>
