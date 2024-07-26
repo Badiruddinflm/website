@@ -3,6 +3,8 @@
 <link rel="stylesheet" href="responsive.css">
 <link rel="stylesheet" href="font-awesome.min.css">
 <link rel="stylesheet" href="bootstrap.css">
+<link rel="stylesheet" href="style.css.map">
+<link rel="stylesheet" href="style.scss">
 <body>
   <div class="hero_area">
     <!-- header section strats -->
