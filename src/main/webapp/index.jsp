@@ -82,7 +82,7 @@
           </div>
           <div class="col-md-6">
             <div class="img-box">
-              <img src="https://www.istockphoto.com/photo/close-up-back-rear-behind-photo-handsome-he-him-his-guy-typing-writing-keyboard-gm1163541604-319526606?utm_source=pixabay&utm_medium=affiliate&utm_campaign=SRP_image_sponsored&utm_content=https%3A%2F%2Fpixabay.com%2Fimages%2Fsearch%2Fsoftware%2520developer%2F&utm_term=software+developer" alt="dev">
+              <img src="https://www.gettyimages.in/detail/photo/small-business-owener-royalty-free-image/1057253610?adppopup=true" alt="dev">
             </div>
           </div>
         </div>
@@ -97,7 +97,7 @@
       <div class="feature_container">
         <div class="box">
           <div class="img-box">
-            <svg enable-background="new 0 0 511.995 511.995" height="512" viewBox="0 0 511.995 511.995" width="512" xmlns="http://www.w3.org/2000/svg">
+            <svg enable-background="new 0 0 511.995 511.995" height="512" viewBox="0 0 511.995 511.995" width="512" xmlns="https://www.gettyimages.in/detail/photo/small-business-owener-royalty-free-image/1057253610?adppopup=true">
               <g>
                 <g>
                   <path d="m217.106 280.749-48.214 48.214c-3.905 3.905-3.905 10.237 0 14.143 1.953 1.953 4.512 2.929 7.071 2.929s5.119-.976 7.071-2.929l48.214-48.214c3.905-3.905 3.905-10.237 0-14.143s-10.237-3.905-14.142 0z" />
@@ -178,7 +178,7 @@
       <div class="row">
         <div class="col-md-6">
           <div class="img-box">
-            <img src="images/professional-img.png" alt="">
+            <img src="https://www.gettyimages.in/detail/photo/small-business-owener-royalty-free-image/1057253610?adppopup=true" alt="">
           </div>
         </div>
         <div class="col-md-6 ">
@@ -228,7 +228,7 @@
         <div class="col-sm-6 col-md-4 mx-auto">
           <div class="box ">
             <div class="img-box">
-              <img src="images/s2.png" alt="" />
+              <img src="https://www.gettyimages.in/detail/photo/small-business-owener-royalty-free-image/1057253610?adppopup=true" alt="" />
             </div>
             <div class="detail-box">
               <h5>
@@ -244,7 +244,7 @@
         <div class="col-sm-6 col-md-4 mx-auto">
           <div class="box ">
             <div class="img-box">
-              <img src="images/s3.png" alt="" />
+              <img src="https://www.gettyimages.in/detail/photo/small-business-owener-royalty-free-image/1057253610?adppopup=true" alt="" />
             </div>
             <div class="detail-box">
               <h5>
@@ -283,7 +283,7 @@
             <div class="box">
               <div class="client_id">
                 <div class="img-box">
-                  <img src="images/client-1.jpg" alt="">
+                  <img src="https://www.gettyimages.in/detail/photo/small-business-owener-royalty-free-image/1057253610?adppopup=true" alt="">
                 </div>
                 <div class="client_detail">
                   <div class="client_info">
@@ -310,7 +310,7 @@
             <div class="box">
               <div class="client_id">
                 <div class="img-box">
-                  <img src="images/client-2.jpg" alt="">
+                  <img src="https://www.gettyimages.in/detail/photo/small-business-owener-royalty-free-image/1057253610?adppopup=true" alt="">
                 </div>
                 <div class="client_detail">
                   <div class="client_info">
@@ -337,7 +337,7 @@
             <div class="box">
               <div class="client_id">
                 <div class="img-box">
-                  <img src="images/client-1.jpg" alt="">
+                  <img src="https://www.gettyimages.in/detail/photo/small-business-owener-royalty-free-image/1057253610?adppopup=true" alt="">
                 </div>
                 <div class="client_detail">
                   <div class="client_info">
@@ -364,7 +364,7 @@
             <div class="box">
               <div class="client_id">
                 <div class="img-box">
-                  <img src="images/client-2.jpg" alt="">
+                  <img src="https://www.gettyimages.in/detail/photo/small-business-owener-royalty-free-image/1057253610?adppopup=true" alt="">
                 </div>
                 <div class="client_detail">
                   <div class="client_info">
