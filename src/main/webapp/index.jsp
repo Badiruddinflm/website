@@ -1,5 +1,8 @@
 </head>
 <link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="responsive.css">
+<link rel="stylesheet" href="font-awesome.min.css">
+<link rel="stylesheet" href="bootstrap.css">
 <body>
   <div class="hero_area">
     <!-- header section strats -->
