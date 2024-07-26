@@ -82,7 +82,7 @@
           </div>
           <div class="col-md-6">
             <div class="img-box">
-              <img src="images/slider-img.png" alt="">
+              <img src="images/https://img.freepik.com/free-vector/abstract-realistic-particle-background_23-2148409681.jpg?t=st=1721966565~exp=1721970165~hmac=5a44e336f214386326529f1fc4eebd82c7553b8daafd9ef4ee380d3a220a6740&w=740" alt="">
             </div>
           </div>
         </div>
